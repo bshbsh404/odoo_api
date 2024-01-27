@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.1.0
-  uuid: ^3.0.5
+  http: any
+  uuid: ^4.0.0
 
 flutter:
